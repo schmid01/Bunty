@@ -1,0 +1,136 @@
+/* ================
+Theme Name: Custom Theme Elements for Releash Atlanta
+Theme URI: http://hhqualitycleaning.com
+Description:  Releash Atlanta
+Author: Appeal Design
+Author URI: http://theappealdesign.com
+===================================== */
+
+.email2{display:none;}
+
+#leftHolder, .leftHolder {float:left;}
+
+#rightHolder, .rightHolder {float:right;}
+
+#closer, .closer {clear:both;}
+
+.maroon{color:#7d1316;}
+
+.rizzo{
+	text-align:right;
+}
+.lizzo{
+	text-align:left;
+}
+.cizzo{
+	text-align:center;
+}
+
+.mfp-wrap {
+  z-index: 100045;
+}
+
+.mfp-bg {
+  z-index: 100044;
+}
+
+#spacer5, .spacer5 {display:block; height:5px;}
+#spacer10, .spacer10 {display:block; height:10px;}
+#spacer15, .spacer15 {display:block; height:15px;}
+
+
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 10px;
+}
+
+hr{
+	margin: 10px 0;
+}
+
+.container-menu {
+    background: #615E5E;
+}
+
+.container {
+    width: 60%;
+}
+
+.ca-menu li:hover {
+    background-color: #615E5E;
+}
+
+.ca-menu li:hover .ca-main {
+    color: #D00000;
+}
+
+.ca-menu li:hover .ca-sub {
+        background-color: #D00000;
+}
+
+#games {
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-left: 1.5%;
+    background: #FFFFF0;
+    margin-bottom: 30px;
+}
+
+.ca-sub {
+    margin-top: 10px;
+    color: #fff;
+    background: #120AF3;
+}
+
+.programinfo h2.ca-main { 
+    margin-top: 46px;
+}
+
+.texas-space {
+    margin-top: 0px;
+}
+
+.programinfo {
+    padding: 0px;
+}
+
+#top_banner {
+    margin-top: 144px;
+}
+
+.caption.small_text_desc p {
+    line-height: 0px;
+    font-size: 0px;
+}
+
+ul.ca-menu {
+    margin-bottom: 0%;
+}
+
+.programinfo  {
+    background: #FFFFF0;
+}
+
+body {
+    background: #FFFFF0;
+}
+
+.ca-menu li {
+   background: #FFFFF0; 
+}
+
+.footer-top-div {
+    background: #4A4747;
+}
+
+.center {
+    text-align: center;
+}
+
+.one_fourth img {
+    padding-left: 15%;
+}
+
+#bump {
+    margin-top: 42px;
+}
