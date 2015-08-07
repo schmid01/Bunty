@@ -1,4 +1,21 @@
-﻿
+﻿<?php
+    session_start();
+    include 'z-config.php';
+
+    //$sql = "SELECT * FROM page WHERE pageID = '55' ";   
+    //$rs=mysql_fetch_array(mysql_query($sql));
+ ?>   
+ <? include 'z-functions.php' ?>
+ <?
+    $page='Homepage';
+    $title='Bunty Gaming LLC';
+    $parent='Bunty Gaming LLC';
+    $parentURL='/';
+    $metadescription = 'Bunty Gaming LLC is ';
+    $metakeywords = 'Bunty Gaming LLC';
+    $productName = '';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
